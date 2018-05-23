@@ -21,7 +21,7 @@ const posts = [{
    
 class Main extends Component{
     render(){
-        console.log('hi there')
+        console.log('hi there koushik')
         return <div>
             <Title title={'photowall'}/>
             <photowall/>
